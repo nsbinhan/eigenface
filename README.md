@@ -6,5 +6,5 @@ Check whether the face in input image turning to the left or right with differen
 Image set: http://wiki.cnbc.cmu.edu/Face_Place
 
 ## Reference
-http://vismod.media.mit.edu/vismod/classes/mas622-00/datasets/
+https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py
 https://github.com/tiepvupsu
