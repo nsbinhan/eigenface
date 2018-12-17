@@ -7,4 +7,5 @@ Image set: http://wiki.cnbc.cmu.edu/Face_Place
 
 ## Reference
 https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py
+
 https://github.com/tiepvupsu
